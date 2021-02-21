@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<staff>
+    <personal>
+        <administrator>
+            <mama>
+                <num>123</num>
+                <name>GGG</name>
+                <ggg>7</ggg>
+            </mama>
+
+            <papa>
+                <num>122</num>
+                <name>HHH</name>
+                <ggg>12</ggg>
+            </papa>
+        </administrator>
+        <jobber>
+            <employee>
+                <id>1</id>
+                <firstName>John</firstName>
+                <lastName>Smith</lastName>
+                <country>USA</country>
+                <age>25</age>
+            </employee>
+
+            <employee>
+                <id>2</id>
+                <firstName>Inav</firstName>
+                <lastName>Petrov</lastName>
+                <country>RU</country>
+                <age>23</age>
+            </employee>
+        </jobber>
+    </personal>
+</staff>
